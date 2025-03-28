@@ -1,4 +1,4 @@
 # welcome to MyFirstRepository
 My name is Arpan Mitra
-This is my first commit
-new lines
+This is my first project.
+I made a simple snake game using Object Oriented Programming
